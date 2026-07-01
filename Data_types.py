@@ -1,6 +1,3 @@
-from encodings.punycode import T
-
-
 var = "Divya"
 print(var)
 var = "Charlie"
